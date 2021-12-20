@@ -16,21 +16,21 @@
   4. Ingredients details 
 
 ## Approach 
-  Application would be built using Flask web application framework 
-  ### Front end 
-  Use Jinja2 general purpose templating language to dynamically generate and display cocktails 
-  Use bootstrap for styling 
-  ### Backend 
-  Use postgresSQL 
-  ### API
-  Ajax technology would be used for API request 
-  Application would be hosted on Heroku
+    Application would be built using Flask web application framework 
+    ### Front end 
+    Use Jinja2 general purpose templating language to dynamically generate and display cocktails 
+    Use bootstrap for styling 
+    ### Backend 
+    Use postgresSQL 
+    ### API
+    Ajax technology would be used for API request 
+    Application would be hosted on Heroku
 
 ## Features:
-  1. Users would be able browse listings of available cocktails by name 
-  2. Users would be able to click the cocktail name to navigate to details page 
-  3. Users would be able to search for recipes 
-  4. Users would be able filter cocktails by category (alcoholic and non-alcoholic)
-  5. Users would have option to save favorites cocktails after creating an account
-  6. Users would be able to view saved recipes 
-  7. Users would be able to delete favorites recipes 
+    1. Users would be able browse listings of available cocktails by name 
+    2. Users would be able to click the cocktail name to navigate to details page 
+    3. Users would be able to search for recipes 
+    4. Users would be able filter cocktails by category (alcoholic and non-alcoholic)
+    5. Users would have option to save favorites cocktails after creating an account
+    6. Users would be able to view saved recipes 
+    7. Users would be able to delete favorites recipes 
