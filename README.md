@@ -4,6 +4,7 @@
 
 ## Users
   The application can be used as a restaurant's menu for customers to choose cocktails, discover and try new cocktails, and save customers' favorites for future service. 
+  
   The application can also be used at parties and similar occasions to learn about the recipes and prepare cocktails for the guests. 
 
   Individuals could also use the application for home entertainment to discover new cocktails and share their experience. 
