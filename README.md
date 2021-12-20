@@ -38,4 +38,5 @@
    * Users would be able to delete favorites recipes 
 
 ## Database Schema
-  ![image](https://user-images.githubusercontent.com/18507815/146766696-62f417e0-eefe-4c94-abb5-ea95e2cce0b0.png)
+  ![image](https://user-images.githubusercontent.com/18507815/146768202-8b611353-2aa6-45cf-9021-9cb371c3042c.png)
+
