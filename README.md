@@ -1,4 +1,4 @@
-# Capstone 1 Project Proposal 
+# FunMoments 
 ## Introduction
   FunMoments application Is a web based application design and build to utilize web services to provide users information about cocktail recipes, instructions on       how to make cocktails to drink and the ability to discover new one. Users would be provided with the capability to save favorite recipes, search for recipes, learn more about the ingredients that recipes contain. 
 
