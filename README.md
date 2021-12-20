@@ -16,13 +16,13 @@
   4. Ingredients details 
 
 ## Approach 
-    Application would be built using Flask web application framework 
-    ### Front end 
+   Application would be built using Flask web application framework 
+   #### Front end 
     Use Jinja2 general purpose templating language to dynamically generate and display cocktails 
     Use bootstrap for styling 
-    ### Backend 
+   #### Backend 
     Use postgresSQL 
-    ### API
+   #### API
     Ajax technology would be used for API request 
     Application would be hosted on Heroku
 
