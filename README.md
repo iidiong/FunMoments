@@ -29,10 +29,10 @@
     Application would be hosted on Heroku
 
 ## Features:
-    * Users would be able browse listings of available cocktails by name 
-    * Users would be able to click the cocktail name to navigate to details page 
-    * Users would be able to search for recipes 
-    * Users would be able filter cocktails by category (alcoholic and non-alcoholic)
-    * Users would have option to save favorites cocktails after creating an account
-    * Users would be able to view saved recipes 
-    * Users would be able to delete favorites recipes 
+   * Users would be able browse listings of available cocktails by name 
+   * Users would be able to click the cocktail name to navigate to details page 
+   * Users would be able to search for recipes 
+   * Users would be able filter cocktails by category (alcoholic and non-alcoholic)
+   * Users would have option to save favorites cocktails after creating an account
+   * Users would be able to view saved recipes 
+   * Users would be able to delete favorites recipes 
