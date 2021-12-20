@@ -36,3 +36,6 @@
    * Users would have option to save favorites cocktails after creating an account
    * Users would be able to view saved recipes 
    * Users would be able to delete favorites recipes 
+
+## Database Schema
+  ![image](https://user-images.githubusercontent.com/18507815/146766696-62f417e0-eefe-4c94-abb5-ea95e2cce0b0.png)
