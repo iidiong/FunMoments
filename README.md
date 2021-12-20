@@ -9,7 +9,7 @@
   Individuals could also use the application for home entertainment to discover new cocktails and share their experience. 
 
 ## Data
-  Application would use open source [Thecocktaildb API](https://www.thecocktaildb.com/api.php?ref=apilist.fun) 
+  Application would use open source [Thecocktaildb API](https://www.thecocktaildb.com/api.php?ref=apilist.fun, "Thecocktaildb API") 
   1. Cocktails name 
   2. Cocktails ingredients 
   3. Cocktails photos 
