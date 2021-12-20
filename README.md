@@ -11,10 +11,10 @@
 
 ## Data
   Application would use open source [Thecocktaildb API](https://www.thecocktaildb.com/api.php?ref=apilist.fun, "Thecocktaildb API") 
-  1. Cocktails name 
-  2. Cocktails ingredients 
-  3. Cocktails photos 
-  4. Ingredients details 
+  * Cocktails name 
+  * Cocktails ingredients 
+  * Cocktails photos 
+  * Ingredients details 
 
 ## Approach 
    Application would be built using Flask web application framework 
@@ -29,10 +29,10 @@
     Application would be hosted on Heroku
 
 ## Features:
-    1. Users would be able browse listings of available cocktails by name 
-    2. Users would be able to click the cocktail name to navigate to details page 
-    3. Users would be able to search for recipes 
-    4. Users would be able filter cocktails by category (alcoholic and non-alcoholic)
-    5. Users would have option to save favorites cocktails after creating an account
-    6. Users would be able to view saved recipes 
-    7. Users would be able to delete favorites recipes 
+    * Users would be able browse listings of available cocktails by name 
+    * Users would be able to click the cocktail name to navigate to details page 
+    * Users would be able to search for recipes 
+    * Users would be able filter cocktails by category (alcoholic and non-alcoholic)
+    * Users would have option to save favorites cocktails after creating an account
+    * Users would be able to view saved recipes 
+    * Users would be able to delete favorites recipes 
