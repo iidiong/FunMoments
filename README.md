@@ -28,7 +28,7 @@
    #### Hosting
     Application would be hosted on Heroku
 
-## Features:
+## Features
    * Users would be able browse listings of available cocktails by name 
    * Users would be able to click the cocktail name to navigate to details page 
    * Users would be able to search for recipes 
