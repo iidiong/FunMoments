@@ -10,10 +10,10 @@
 
 ## Data
   Application would use open source  Thecocktaildb API. 
-  Cocktails name 
-  Cocktails ingredients 
-  Cocktails photos 
-  Ingredients details 
+  1. Cocktails name 
+  2. Cocktails ingredients 
+  3. Cocktails photos 
+  4. Ingredients details 
 
 ## Approach 
   Application would be built using Flask web application framework 
