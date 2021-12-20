@@ -21,7 +21,7 @@
     Use Jinja2 general purpose templating language to dynamically generate and display cocktails 
     Use bootstrap for styling 
    #### Backend 
-    Use postgresSQL 
+    Use postgresSQL database
    #### API
     Ajax technology would be used for API request
    #### Hosting
