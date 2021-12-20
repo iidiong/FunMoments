@@ -23,7 +23,8 @@
    #### Backend 
     Use postgresSQL 
    #### API
-    Ajax technology would be used for API request 
+    Ajax technology would be used for API request
+   #### Hosting
     Application would be hosted on Heroku
 
 ## Features:
