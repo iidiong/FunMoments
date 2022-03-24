@@ -1,0 +1,26 @@
+<%- include('./partials/header.ejs') %>
+
+<div class="container my-5">
+    <h3 class="text-center">Login</h3>
+    <div class="col-6 mx-auto">
+        <form class="row g-3 mx-auto">
+            <div class="col-md-12">
+                <label for="inputEmail4" class="form-label">Email</label>
+                <input type="email" class="form-control" id="inputEmail4">
+            </div>
+            <div class="col-md-12">
+                <label for="inputPassword4" class="form-label">Password</label>
+                <input type="password" class="form-control" id="inputPassword4">
+            </div>
+
+            <div class="col-12 text-center">
+                <button type="submit" class="btn btn-default bg-dark text-white">Sign in</button>
+            </div>
+            <p class="text-center mb-5">
+                <a href="/register" class="btn ">Create account</a>
+            </p>
+        </form>
+    </div>
+</div>
+
+<%- include('./partials/footer.ejs') %>

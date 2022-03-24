@@ -1,0 +1,14 @@
+<%- include('./partials/header.ejs') %>
+<div class="container mt-3 mb-5" style=" width: 35rem;">
+    <div class="card mb-3">
+        <img src="<%= results[0].strDrinkThumb %>" class="card-img-top mx-auto py-2" alt="..." style=" width: 20rem;">
+        <div class="card-body">
+            <h5 class="card-title">
+                <%= results[0].strDrink %>
+            </h5>
+            <span><strong>Instructions:</strong></span>
+            <p class="card-text"><%= results[0].strInstructions %> </p>
+        </div>
+    </div>
+</div>
+<%- include('./partials/footer.ejs') %>

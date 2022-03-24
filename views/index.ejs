@@ -1,0 +1,29 @@
+<%- include('./partials/header.ejs') %>
+<main class="container-fluid">
+    <div class="h1 px-4">
+        <h1>
+            <%= drinkcategory %>
+        </h1>
+        <!-- <p>
+            <%= subheading %></p>
+        </p> -->
+    </div>
+    <div class="container-fluid px-4">
+        <div class="row ">
+            <% results.forEach(function(drink) { %>
+            <div class="card mx-auto my-2" style="width: 20rem; ">
+                <img src="<%= drink.strDrinkThumb %>" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title"><%= drink.strDrink %></h5>
+                    <p class="card-text">Drink Id: <%= drink.idDrink %></p>
+                    <a href="/details/<%=drink.idDrink %>" class="btn btn-primary">Learn more</a>
+                </div>
+            </div>
+            <% }); %>
+        </div>
+    </div>
+    </div>
+
+</main>
+
+<%- include('./partials/footer.ejs') %>
